@@ -1,6 +1,6 @@
 package Utils;
 
-public class Utils {
+public class utils {
 
     /**
      * Méthode pour vérifier si la réponse du joueur est un Integer
